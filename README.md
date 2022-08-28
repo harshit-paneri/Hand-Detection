@@ -1,1 +1,1 @@
-# Hand-Detection
+# Hand Detection
